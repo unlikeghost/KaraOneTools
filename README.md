@@ -6,7 +6,7 @@ KaraOne Tools es una librería de Python que nos permitirá trabajar con el data
 
 Clona este repositorio e instala las dependencias
 ```bash
-git clone https://github.com/unlikeghost/karaone.git
+git clone https://github.com/unlikeghost/KaraOneTools.git
 ```
 
 ```bash
